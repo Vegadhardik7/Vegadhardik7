@@ -22,6 +22,6 @@ Gist About Me
 
 ###
 
-Constantly learning, adpating, and evolving is the only way of make this world a better place.
+Constantly learning, adpating, and evolving is the only way to make this world a better place.
 
 ~ Everybody can code but only few can develop.
