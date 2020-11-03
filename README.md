@@ -24,4 +24,4 @@ Gist About Me
 
 Constantly learning, adpating, and evolving is the only way to make this world a better place.
 
-~ Everybody can code but only few can develop.
+~ Everyone can code but only few can develop.
