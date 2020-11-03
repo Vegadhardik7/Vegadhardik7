@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there It's me Hardik Vegad 👋
 
-<!--
-**Vegadhardik7/Vegadhardik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/Vegadhardik7/Vegadhardik7.svg)](http://hits.dwyl.com/Vegadhardik7/Vegadhardik7)
 
-Here are some ideas to get you started:
+Gist About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am a Computer Science Student.
+- 🤖 AI and Data Science Enthusiast.
+- 📚 Up-skilling my self by reading books.
+- 🌱 Constant learner and always up for challenges.
+- 📝 Actively in writting blogs [CHEKC IT OUT!](https://www.infinitycodex.in/) 
+- 🌐 Know more about me [HARDIK VEGAD](https://infinitycodex.github.io/Hardik_Vegad_Resume/)
+
+
+### Other places you can find me 📫
+
+* Gmail: <a href="mailto:vegadhardik7@gmail.com">Feel Free to mail</a>
+* LinkedIn: [Follow me now on LinkedIn](https://www.linkedin.com/in/vegadhardik7/)
+* Twitter: [Follow me now on Twitter](https://twitter.com/InfinityCodeX1)
+* Instagram: [Follow me now on Instagram](https://www.instagram.com/infinitycode_x/)
+* Facebook: [Follow me now on Facebook](https://www.facebook.com/InfinitycodeX/)
+
+###
+
+Constantly learning, adpating, and evolving is the only way of make this world a better place.
+
+~ Everybody can code but only few can develop.
