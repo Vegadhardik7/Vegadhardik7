@@ -6,7 +6,7 @@ Gist About Me
 
 - 💻 I am a Computer Science Student.
 - 🤖 AI and Data Science Enthusiast.
-- 📚 Up-skilling my self by reading books.
+- 📚 Up-skilling my self every day by reading books.
 - 🌱 Constant learner and always up for challenges.
 - 📝 Actively in writting blogs [CHECK IT OUT!](https://www.infinitycodex.in/) 
 - 🌐 Know more about me [HARDIK VEGAD](https://infinitycodex.github.io/Hardik_Vegad_Resume/)
