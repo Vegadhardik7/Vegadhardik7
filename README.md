@@ -8,7 +8,7 @@ Gist About Me
 - 🤖 AI and Data Science Enthusiast.
 - 📚 Up-skilling my self by reading books.
 - 🌱 Constant learner and always up for challenges.
-- 📝 Actively in writting blogs [CHEKC IT OUT!](https://www.infinitycodex.in/) 
+- 📝 Actively in writting blogs [CHECK IT OUT!](https://www.infinitycodex.in/) 
 - 🌐 Know more about me [HARDIK VEGAD](https://infinitycodex.github.io/Hardik_Vegad_Resume/)
 
 
