@@ -1,7 +1,5 @@
 ### Hi there It's me Hardik Vegad 👋
 
-[![HitCount](http://hits.dwyl.com/Vegadhardik7/Vegadhardik7.svg)](http://hits.dwyl.com/Vegadhardik7/Vegadhardik7)
-
 Gist About Me
 
 - 💻 I am a Computer Science Student.
