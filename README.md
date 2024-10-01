@@ -1,4 +1,4 @@
-### Hi there It's me Hardik Vegad 👋
+# Hi there It's me Hardik Vegad 👋
 
 Gist About Me
 
@@ -10,7 +10,7 @@ Gist About Me
 - 🌐 Know more about me [HARDIK VEGAD](https://infinitycodex.github.io/Hardik_Vegad_Resume/)
 
 
-### Other places you can find me 📫
+# Other places you can find me 📫
 
 * Gmail: <a href="mailto:vegadhardik7@gmail.com">Feel Free to mail</a>
 * LinkedIn: [Follow me now on LinkedIn](https://www.linkedin.com/in/vegadhardik7/)
