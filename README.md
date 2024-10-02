@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there It's me Hardik Vegad 
+# 🙋‍♂️ Hi there it's me Hardik Vegad 
 
 Gist About Me
 
